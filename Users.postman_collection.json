@@ -50,8 +50,8 @@
 						"exec": [
 							"let random = +new Date();\r",
 							"\r",
-							"pm.globals.set(\"username\", `${random}-user`);\r",
-							"pm.globals.set(\"email\", `${random}-user@test.com`)"
+							"pm.globals.set(\"username\", `${random}-buser`);\r",
+							"pm.globals.set(\"email\", `${random}-buser@test.com`)"
 						],
 						"type": "text/javascript"
 					}
