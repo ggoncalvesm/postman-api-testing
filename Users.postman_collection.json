@@ -104,23 +104,6 @@
 					"path": [
 						"user",
 						"create"
-					],
-					"query": [
-						{
-							"key": "",
-							"value": "",
-							"disabled": true
-						},
-						{
-							"key": "",
-							"value": "",
-							"disabled": true
-						},
-						{
-							"key": "",
-							"value": "",
-							"disabled": true
-						}
 					]
 				}
 			},
